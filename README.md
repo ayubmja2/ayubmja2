@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayubmja2
 - 👀 I’m interested in building cool stuff, I like sports like Basketball. 
-- 🌱 I’m currently learning Laravel framework and PHP
+- 🌱 I’m currently learning all things python with flask and FastAPI. Aswell as Ruby on Rails.
 - 📫 How to reach me at: ayubmja8448@gmail.com
 
 - ⚡ Fun fact: Trying to build a startup working on a very useful web application wanna join?
