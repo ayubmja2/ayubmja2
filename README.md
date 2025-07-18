@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ayubmja2
+- 👋 Hi, I’m @ayubmja2 founder of Platerly
 - 👀 I’m interested in building cool stuff, I like sports like Basketball. 
-- 🌱 I’m currently learning all things python with flask and FastAPI. I'm good with c# and asp.net 
-- 🌱 I also use Vue.js and React.js. But Vue3 most of the time.
+- 🌱 I’m currently learning all things with c# and asp.net 
+- 🌱 I also use Vue.js and React.js. But React.js most of the time.
 - 📫 How to reach me at: ayubmja8448@gmail.com
 
 - ⚡ Fun fact: I need job. So yeah
