@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ayubmja2 founder of 
+- 👋 Hi, I’m @Ayub
 - 👀 I’m interested in building cool stuff, I like sports like Basketball. 
-- 🌱 I’m currently learning all things with c# and asp.net 
-- 🌱 I also use Vue.js and React.js. But React.js most of the time.
+- 🌱 I’m currently learning all things python and golang particularly backend dev.
+- 🌱 I also use docker. 
 
 
 - ⚡ Fun fact: I need job. So yeah
