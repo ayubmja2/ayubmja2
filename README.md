@@ -29,16 +29,6 @@ An allergy-aware recipe platform I built and launched solo. Consumer app plus a 
 
 `C#` `ASP.NET Core` `EF Core` `Azure` `Stripe` `React`
 
-### [webxy](https://github.com/ayubmja2/webxy)
-An earlier Laravel prototype of the same allergy-friendly recipe idea. Talks to a separate Python [ingredient substitution service](https://github.com/ayubmja2/ingredientSubstitutionService) that suggests safe swaps based on a user's allergens.
-
-`PHP` `Laravel` `Vue` `Inertia` `Python` `Flask` `Docker`
-
-### [digtallinkster](https://github.com/ayubmja2/digtallinkster)
-Bookmark manager for saving and organizing links into collections, with authentication and a dashboard.
-
-`TypeScript` `Next.js` `React` `PostgreSQL` `Prisma`
-
 ### [AI coding agent](https://github.com/ayubmja2/aiagent-bootdev)
 A command-line agent that uses an LLM with function calling to read, write and run Python files while blocking access outside its working directory. Built as part of the Boot.dev backend curriculum.
 
@@ -56,4 +46,4 @@ A command-line agent that uses an LLM with function calling to read, write and r
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/ayub-ali-728315265/)
+[LinkedIn](https://www.linkedin.com/in/ayubmja/)
