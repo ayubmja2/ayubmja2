@@ -48,4 +48,4 @@ Frontend: React · Vue · Next.js
 Tools: Git · Docker · GitHub Actions · Linux
 Hardware: STM32 · I2C / SPI sensors · electrical controls background
 
-LinkedIn
+LinkedIn: linkedin.com/in/ayubmja
