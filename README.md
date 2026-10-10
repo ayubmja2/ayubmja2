@@ -38,11 +38,11 @@ A command-line agent that uses an LLM with function calling to read, write and r
 
 ## Stack
 
-**Languages:** Python · Go · C# · C · PHP · TypeScript
-**Backend:** ASP.NET Core · Flask · Laravel · REST APIs · PostgreSQL · SQL Server
-**Frontend:** React · Vue · Next.js
-**Tools:** Git · Docker · GitHub Actions · Linux
-**Hardware:** STM32 · I2C / SPI sensors · electrical controls background
+- **Languages:** Python · Go · C# · C
+- **Backend:** ASP.NET Core · Flask · REST APIs · PostgreSQL · SQL Server
+- **Frontend:** React · Vue
+- **Tools:** Git · Docker · GitHub Actions · Linux
+- **Hardware:** STM32 · I2C / SPI sensors · electrical controls background
 
 ---
 
